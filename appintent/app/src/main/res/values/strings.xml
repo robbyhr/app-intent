@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">appintent</string>
+    <string name="thistwo">THIS IS LAYOUT 2</string>
+    <string name="thisthree">THIS IS LAYOUT 3</string>
+</resources>
